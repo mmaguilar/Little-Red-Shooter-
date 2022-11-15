@@ -1,1 +1,6 @@
 Images used in the game. 
+External Assets:
+-Main Menu backdrop (https://opengameart.org/content/forest-background-art)
+-Lawn (https://opengameart.org/content/grass-texture-pack)
+-Buttons (https://kenney.nl/assets/ui-pack)
+
