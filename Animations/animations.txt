@@ -1,1 +1,7 @@
 Images used to create animations.
+External Assets:
+-Wolves (https://opengameart.org/content/lpc-wolf-animation)
+-Health Potion (https://opengameart.org/content/colorful-potions-animated)
+-Coins (https://opengameart.org/content/animated-coins)
+-Player (https://opengameart.org/content/stella)
+
