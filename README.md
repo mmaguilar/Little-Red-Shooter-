@@ -1,6 +1,7 @@
 # Little-Red-Shooter-
 Little Red Shooter is a single-player shooter game developed using C# and Unity Hub. 
 Link to published game on Itch.io: https://mmaguilar.itch.io/little-red-shooter
+
 Main Menu
 <img width="956" alt="Screen Shot 2023-01-16 at 7 57 17 PM" src="https://user-images.githubusercontent.com/77868811/212807047-6cbeda1f-1215-473f-9e65-47324e89a9f7.png">
 Gameplay
